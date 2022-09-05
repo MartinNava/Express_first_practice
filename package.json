@@ -1,0 +1,26 @@
+{
+  "name": "express_first_practice",
+  "version": "1.0.0",
+  "description": "Hello world page for Express",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon --watch ./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MartinNava/Express_first_practice.git"
+  },
+  "author": "1N_C0D3_W3_TRU5T",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MartinNava/Express_first_practice/issues"
+  },
+  "homepage": "https://github.com/MartinNava/Express_first_practice#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
