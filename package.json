@@ -4,7 +4,7 @@
   "description": "Hello world page for Express",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon --watch ./index.js"
+    "start": "npx nodemon --watch ./index.js"
   },
   "repository": {
     "type": "git",
